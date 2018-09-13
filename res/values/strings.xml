@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Share to Calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">To use, in any application, select some text (press and hold), then select <i>Share</i> and choose
+        <b>Smart Share to Calendar</b>
+        to automatically create a calendar event.<br/>
+        Depending on your calendar application, a screen will be shown asking you to confirm the event to be added -
+        and allowing you to change some event specific options.
+        With many applications selecting text is not required, e.g K9 mail, you can just share the entire email and
+        <b>Smart Share to Calendar</b> will figure out the important details.<br/>
+        <br/><p>
+        The app uses <a href="https://github.com/joestelmach/natty/blob/master/LICENSE">Natty</a> and <a href="http://www.antlr3.org/license.html">Antlr</a></p>
+    </string>
+
+</resources>
